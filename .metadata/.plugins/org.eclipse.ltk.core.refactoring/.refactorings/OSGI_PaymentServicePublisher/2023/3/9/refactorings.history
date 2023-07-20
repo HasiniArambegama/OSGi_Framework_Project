@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;osgi_paymentservicepublisher.InPaymentServicePublish.java&apos; to &apos;PaymentServicePublish.java&apos;&#x0D;&#x0A;- Original project: &apos;OSGI_PaymentServicePublisher&apos;&#x0D;&#x0A;- Original element: &apos;osgi_paymentservicepublisher.InPaymentServicePublish.java&apos;&#x0D;&#x0A;- Renamed element: &apos;osgi_paymentservicepublisher.PaymentServicePublish.java&apos;" description="Rename compilation unit &apos;InPaymentServicePublish.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;osgi_paymentservicepublisher{InPaymentServicePublish.java" name="PaymentServicePublish.java" references="false" stamp="1677642058411" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI_PaymentServicePublisher
+Bundle-SymbolicName: OSGI_PaymentServicePublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: osgi_paymentservicepublisher.Activator
+Export-Package: osgi_paymentservicepublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
