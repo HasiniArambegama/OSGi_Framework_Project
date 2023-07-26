@@ -26,7 +26,7 @@ To run the Hotel Management System, ensure you have the following tools installe
 ### Installation
 
 01. Clone the repository to your local machine using the following command:
-    [git clone https://github.com/your-username/hotel-management-system.git](https://github.com/HasiniArambegama/OSGi_Framework_Project.git)
+    ```git clone https://github.com/HasiniArambegama/OSGi_Framework_Project.git```
 
 02. Install the required dependencies and tools, as specified in the project documentation.
 03. Launch Visual Studio Code and open the project folder to start exploring the codebase and making modifications.
