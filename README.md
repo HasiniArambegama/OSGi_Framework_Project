@@ -28,6 +28,14 @@ To run the Hotel Management System, ensure you have the following tools installe
 01. Clone the repository to your local machine using the following command:
     ```git clone https://github.com/HasiniArambegama/OSGi_Framework_Project.git```
 
-02. Install the required dependencies and tools, as specified in the project documentation.
-03. Launch Visual Studio Code and open the project folder to start exploring the codebase and making modifications.
+02. Import the project into your Eclipse IDE (or any OSGi framework-compatible IDE).
+03. Build and compile the project.
+04. Run the application, and you're ready to manage your hotel efficiently!
+
+### How to Contribute
+We welcome contributions from the open-source community to enhance the Hotel Management System. If you find any issues or have ideas for improvements, feel free to fork the repository, make changes, and submit pull requests. Your valuable contributions will help make this project even better. 
    
+### Contact
+For any questions or inquiries related to the project, please feel free to contact the project maintainers or open an issue on the repository.
+
+Let's make hotel management a breeze with the Hotel Management System - Java OSGi Framework! Happy coding!
